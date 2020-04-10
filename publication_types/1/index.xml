@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Advances in Design and Test of Monolithic 3D ICs</title>
+      <title>Advances in Design and Test of Monolithic 3D ICs, DATE, 2020</title>
       <link>/publication/2020date/</link>
       <pubDate>Wed, 04 Mar 2020 12:00:00 +0000</pubDate>
       <guid>/publication/2020date/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>A ReRAM Memory Compiler with Layout-Precise Performance Evaluation</title>
+      <title>A ReRAM Memory Compiler with Layout-Precise Performance Evaluation, S3S, 2019</title>
       <link>/publication/2019s3s/</link>
       <pubDate>Tue, 15 Oct 2019 11:00:00 -1200</pubDate>
       <guid>/publication/2019s3s/</guid>
@@ -29,7 +29,15 @@
     </item>
     
     <item>
-      <title>RTL-to-GDS Tool Flow and Design-for-Test Solutions for Monolithic 3D ICs</title>
+      <title>Q-PIM: A Genetic Algorithm based Flexible DNN Quantization Method and Application to Processing-in-Memory Platform, DAC, 2020</title>
+      <link>/publication/2020dac/</link>
+      <pubDate>Fri, 19 Jul 2019 12:00:00 +0000</pubDate>
+      <guid>/publication/2020dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTL-to-GDS Tool Flow and Design-for-Test Solutions for Monolithic 3D ICs, DAC, 2019</title>
       <link>/publication/2019dac/</link>
       <pubDate>Sun, 02 Jun 2019 12:00:00 +0000</pubDate>
       <guid>/publication/2019dac/</guid>

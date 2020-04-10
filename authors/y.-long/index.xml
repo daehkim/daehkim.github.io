@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>A ReRAM Memory Compiler with Layout-Precise Performance Evaluation</title>
+      <title>A ReRAM Memory Compiler with Layout-Precise Performance Evaluation, S3S, 2019</title>
       <link>/publication/2019s3s/</link>
       <pubDate>Tue, 15 Oct 2019 11:00:00 -1200</pubDate>
       <guid>/publication/2019s3s/</guid>
@@ -21,7 +21,15 @@
     </item>
     
     <item>
-      <title>A Ferroelectric FET based Processing-in-Memory Architecture for DNN Acceleration</title>
+      <title>Q-PIM: A Genetic Algorithm based Flexible DNN Quantization Method and Application to Processing-in-Memory Platform, DAC, 2020</title>
+      <link>/publication/2020dac/</link>
+      <pubDate>Fri, 19 Jul 2019 12:00:00 +0000</pubDate>
+      <guid>/publication/2020dac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ferroelectric FET based Processing-in-Memory Architecture for DNN Acceleration, JXDC, 2019</title>
       <link>/publication/2019jxdc/</link>
       <pubDate>Wed, 19 Jun 2019 12:00:00 +0000</pubDate>
       <guid>/publication/2019jxdc/</guid>
