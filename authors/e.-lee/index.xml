@@ -5,7 +5,7 @@
     <link>/authors/e.-lee/</link>
       <atom:link href="/authors/e.-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Lee</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 12:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>E. Lee</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Advances in Design and Test of Monolithic 3D ICs</title>
+      <link>/publication/2020date/</link>
+      <pubDate>Wed, 04 Mar 2020 12:00:00 +0000</pubDate>
+      <guid>/publication/2020date/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A ReRAM Memory Compiler with Layout-Precise Performance Evaluation</title>
+      <link>/publication/2019s3s/</link>
+      <pubDate>Tue, 15 Oct 2019 11:00:00 -1200</pubDate>
+      <guid>/publication/2019s3s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ferroelectric FET based Processing-in-Memory Architecture for DNN Acceleration</title>
+      <link>/publication/2019jxdc/</link>
+      <pubDate>Wed, 19 Jun 2019 12:00:00 +0000</pubDate>
+      <guid>/publication/2019jxdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RTL-to-GDS Tool Flow and Design-for-Test Solutions for Monolithic 3D ICs</title>
       <link>/publication/2019dac/</link>
-      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jun 2019 12:00:00 +0000</pubDate>
       <guid>/publication/2019dac/</guid>
       <description></description>
     </item>

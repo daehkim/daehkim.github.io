@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Long | Academic</title>
+    <link>/authors/y.-long/</link>
+      <atom:link href="/authors/y.-long/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Long</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2019 11:00:00 -1200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Y. Long</title>
+      <link>/authors/y.-long/</link>
+    </image>
+    
+    <item>
+      <title>A ReRAM Memory Compiler with Layout-Precise Performance Evaluation</title>
+      <link>/publication/2019s3s/</link>
+      <pubDate>Tue, 15 Oct 2019 11:00:00 -1200</pubDate>
+      <guid>/publication/2019s3s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ferroelectric FET based Processing-in-Memory Architecture for DNN Acceleration</title>
+      <link>/publication/2019jxdc/</link>
+      <pubDate>Wed, 19 Jun 2019 12:00:00 +0000</pubDate>
+      <guid>/publication/2019jxdc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

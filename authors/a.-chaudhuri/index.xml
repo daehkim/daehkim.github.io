@@ -5,7 +5,7 @@
     <link>/authors/a.-chaudhuri/</link>
       <atom:link href="/authors/a.-chaudhuri/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Chaudhuri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Mar 2020 12:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>A. Chaudhuri</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Advances in Design and Test of Monolithic 3D ICs</title>
+      <link>/publication/2020date/</link>
+      <pubDate>Wed, 04 Mar 2020 12:00:00 +0000</pubDate>
+      <guid>/publication/2020date/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RTL-to-GDS Tool Flow and Design-for-Test Solutions for Monolithic 3D ICs</title>
       <link>/publication/2019dac/</link>
-      <pubDate>Tue, 01 Jan 2019 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 02 Jun 2019 12:00:00 +0000</pubDate>
       <guid>/publication/2019dac/</guid>
       <description></description>
     </item>
