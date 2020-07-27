@@ -5,12 +5,20 @@
     <link>daehkim.github.io/</link>
       <atom:link href="daehkim.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>DaehyunKim</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 23:02:40 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 16:38:55 -0400</lastBuildDate>
     <image>
       <url>/daehkim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>DaehyunKim</title>
       <link>daehkim.github.io/</link>
     </image>
+    
+    <item>
+      <title>A processing-In-Memory based On-chip with Spike-Time-Dependent-Plasticity in 65nm CMOS, SSCL, 2020</title>
+      <link>daehkim.github.io/publication/sscl-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 16:38:55 -0400</pubDate>
+      <guid>daehkim.github.io/publication/sscl-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SAFE-DNN: A Deep Neural Network With Spike Assisted Feature Extraction For Noise Robust Inference, IJCNN, 2020</title>
