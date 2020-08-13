@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Mukhopadhyay | DaehyunKim</title>
+    <link>daehkim.github.io/author/s.-mukhopadhyay/</link>
+      <atom:link href="daehkim.github.io/author/s.-mukhopadhyay/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Mukhopadhyay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 16:38:55 -0400</lastBuildDate>
+    <image>
+      <url>/daehkim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Mukhopadhyay</title>
+      <link>daehkim.github.io/author/s.-mukhopadhyay/</link>
+    </image>
+    
+    <item>
+      <title>A processing-In-Memory based On-chip Learning with Spike-Time-Dependent-Plasticity in 65nm CMOS, SSCL, 2020</title>
+      <link>daehkim.github.io/publication/sscl-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 16:38:55 -0400</pubDate>
+      <guid>daehkim.github.io/publication/sscl-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAFE-DNN: A Deep Neural Network With Spike Assisted Feature Extraction For Noise Robust Inference, IJCNN, 2020</title>
+      <link>daehkim.github.io/publication/ijcnn-2020-1/</link>
+      <pubDate>Tue, 02 Jun 2020 23:02:40 -0400</pubDate>
+      <guid>daehkim.github.io/publication/ijcnn-2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flex-PIM: A Ferroelectric FET based Vector Matrix Multiplication Engine with Dynamical Bitwidth and Floating Point Precision, IJCNN, 2020</title>
+      <link>daehkim.github.io/publication/ijcnn-2020-0/</link>
+      <pubDate>Tue, 02 Jun 2020 23:02:37 -0400</pubDate>
+      <guid>daehkim.github.io/publication/ijcnn-2020-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q-PIM: A Genetic Algorithm based Flexible DNN Quantization Method and Application to Processing-In-Memory Platform, DAC, 2020</title>
+      <link>daehkim.github.io/publication/dac-2020-0/</link>
+      <pubDate>Tue, 02 Jun 2020 23:02:22 -0400</pubDate>
+      <guid>daehkim.github.io/publication/dac-2020-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Design and Test of Monolithic 3D ICs, DATE, 2020</title>
+      <link>daehkim.github.io/publication/date-2020-0/</link>
+      <pubDate>Tue, 02 Jun 2020 23:01:05 -0400</pubDate>
+      <guid>daehkim.github.io/publication/date-2020-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SciNet: Deep Learning with Spike-assisted Contextual Information Extraction, arXiv, 2019</title>
+      <link>daehkim.github.io/publication/arxiv-2019-0/</link>
+      <pubDate>Sun, 02 Jun 2019 23:25:57 -0400</pubDate>
+      <guid>daehkim.github.io/publication/arxiv-2019-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ferroelectric FET based Processing-in-Memory Architecture for DNN Acceleration, JXCDC, 2019</title>
+      <link>daehkim.github.io/publication/jxdc-2019-0/</link>
+      <pubDate>Sun, 02 Jun 2019 23:00:51 -0400</pubDate>
+      <guid>daehkim.github.io/publication/jxdc-2019-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTL-to-GDS Tool Flow and Design-for-Test Solutions for Monolithic 3D ICs, DAC, 2019</title>
+      <link>daehkim.github.io/publication/dac-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 22:57:02 -0400</pubDate>
+      <guid>daehkim.github.io/publication/dac-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

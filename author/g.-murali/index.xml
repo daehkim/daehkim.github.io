@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Murali | DaehyunKim</title>
+    <link>daehkim.github.io/author/g.-murali/</link>
+      <atom:link href="daehkim.github.io/author/g.-murali/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Murali</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 23:01:05 -0400</lastBuildDate>
+    <image>
+      <url>/daehkim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Murali</title>
+      <link>daehkim.github.io/author/g.-murali/</link>
+    </image>
+    
+    <item>
+      <title>Advances in Design and Test of Monolithic 3D ICs, DATE, 2020</title>
+      <link>daehkim.github.io/publication/date-2020-0/</link>
+      <pubDate>Tue, 02 Jun 2020 23:01:05 -0400</pubDate>
+      <guid>daehkim.github.io/publication/date-2020-0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

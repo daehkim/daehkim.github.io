@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Rahman | DaehyunKim</title>
+    <link>daehkim.github.io/author/n.-rahman/</link>
+      <atom:link href="daehkim.github.io/author/n.-rahman/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Rahman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jul 2020 16:38:55 -0400</lastBuildDate>
+    <image>
+      <url>/daehkim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>N. Rahman</title>
+      <link>daehkim.github.io/author/n.-rahman/</link>
+    </image>
+    
+    <item>
+      <title>A processing-In-Memory based On-chip Learning with Spike-Time-Dependent-Plasticity in 65nm CMOS, SSCL, 2020</title>
+      <link>daehkim.github.io/publication/sscl-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 16:38:55 -0400</pubDate>
+      <guid>daehkim.github.io/publication/sscl-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

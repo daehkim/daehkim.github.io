@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Saha | DaehyunKim</title>
+    <link>daehkim.github.io/author/p.-saha/</link>
+      <atom:link href="daehkim.github.io/author/p.-saha/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Saha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 23:02:40 -0400</lastBuildDate>
+    <image>
+      <url>/daehkim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Saha</title>
+      <link>daehkim.github.io/author/p.-saha/</link>
+    </image>
+    
+    <item>
+      <title>SAFE-DNN: A Deep Neural Network With Spike Assisted Feature Extraction For Noise Robust Inference, IJCNN, 2020</title>
+      <link>daehkim.github.io/publication/ijcnn-2020-1/</link>
+      <pubDate>Tue, 02 Jun 2020 23:02:40 -0400</pubDate>
+      <guid>daehkim.github.io/publication/ijcnn-2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ferroelectric FET based Processing-in-Memory Architecture for DNN Acceleration, JXCDC, 2019</title>
+      <link>daehkim.github.io/publication/jxdc-2019-0/</link>
+      <pubDate>Sun, 02 Jun 2019 23:00:51 -0400</pubDate>
+      <guid>daehkim.github.io/publication/jxdc-2019-0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

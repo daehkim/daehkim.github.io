@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Lee | DaehyunKim</title>
+    <link>daehkim.github.io/author/y.-lee/</link>
+      <atom:link href="daehkim.github.io/author/y.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Lee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 23:30:56 -0400</lastBuildDate>
+    <image>
+      <url>/daehkim.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Y. Lee</title>
+      <link>daehkim.github.io/author/y.-lee/</link>
+    </image>
+    
+    <item>
+      <title>Integrated circuit for physically unclonable function and device including the same</title>
+      <link>daehkim.github.io/publication/patent-0/</link>
+      <pubDate>Tue, 01 Jan 2019 23:30:56 -0400</pubDate>
+      <guid>daehkim.github.io/publication/patent-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Physically Unclonable Function Circuit, and System and Integrated Circuit Including the Same</title>
+      <link>daehkim.github.io/publication/patent-1/</link>
+      <pubDate>Sat, 02 Jun 2018 23:31:58 -0400</pubDate>
+      <guid>daehkim.github.io/publication/patent-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
